@@ -7,4 +7,4 @@ Escribe un programa que, una vez está cargado el árbol DOM de una página HTML
 
 Realiza lo mismo, pero ahora de forma que la petición del documento se realice cuando el usaurio pulsa el ratón sobre otro elemento.
 
-[Resolución del ejercio](https://damapin.github.io/X-NAV-JQ-Ajax/)
+[Resolución del ejercicio](https://damapin.github.io/X-NAV-JQ-Ajax/)
