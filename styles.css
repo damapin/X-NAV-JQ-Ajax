@@ -1,0 +1,15 @@
+body{
+	font-size: 0.8em;
+}
+
+.clickable{
+	color: #ad453d
+}
+
+.hidden{
+	visibility: hidden;
+}
+
+.container{
+	margin: 20px 0 0 50px;
+}
